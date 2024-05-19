@@ -44,8 +44,7 @@ This project is an implementation of authentication (login and registration) usi
     Email   : super@admin.com
     Pass    : Admin@123
     
-8. Compile your assets
-   This command will automatically compile and bundle your JavaScript and CSS files, enabling the React components and Tailwind CSS styles to be applied in the application’s user interface.
+8. Compile your assets. This command will automatically compile and bundle your JavaScript and CSS files, enabling the React components and Tailwind CSS styles to be applied in the application’s user interface.
     ```sh
     npm run dev --watch
     ```
