@@ -49,6 +49,6 @@ This project is an implementation of authentication (login and registration) usi
     npm run dev --watch
     ```
     
-10. Open **another terminal or Git Bash window*, then run the Laravel server
+10. Open **another terminal or Git Bash window**, then run the Laravel server
     ```sh
     php artisan serve
